@@ -1,5 +1,5 @@
 # ArbeitszeitErfassung
-Erfassung der Arbeitszeit mit Pausen und Anzeige wann endlich Feierabend ist ;-)
+Erfassung der Arbeitszeit mit Pausen und Anzeige der Zeit bis zum Feierabend.
 
 Einfache Maske zur Zeiterfassung. Die Steuerung kann auch über ein Tray-Icon erfolgen. Es können beliebig viele Pausen gemacht werden.
 
